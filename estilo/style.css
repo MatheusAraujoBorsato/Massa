@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #444;
+}
+
+section {
+    padding: 3rem 0 4rem 0;
+}
+
+.gray {
+    background-color: #f7f7f7
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 1rem;
+}
+
+.intro p {
+    margin: 1rem 0;
+    font-size: 1.5rem;
+    font-weight: ;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+footer {
+    background-color: #37898f;
+}
